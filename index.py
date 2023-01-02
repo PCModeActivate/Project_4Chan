@@ -74,18 +74,22 @@ def addTag(tag, tp = TagType.miscellaneous):
 
 
 def addImgTag(image, tag = "No Tags", tp = TagType.miscellaneous):
-    images[image][0] += 1
-    if tag not in images[image]:
+    if tag not in images[image] and tag != "No Tags":
         images[image].append(tag)
-    if tag not in tags:
-        addTag(tag, tp)
+        images[image][0] += 1
     if image not in tags[tag]:
         tags[tag].append(image)
-    if images[image][0] == 1:
+    if images[image][0] == 1 and "No Tags" in images[image]:
         tags["No Tags"].remove(image)
         images[image].remove("No Tags")
+    
+    # Should not go here
+    if tag not in tags:
+        addTag(tag, tp)
 
 def delImgTag(image, tag):
+    # No Exception handling here?
+
     tags[tag].remove(image)
     images[image][0] -= 1
     images[image].remove(tag)

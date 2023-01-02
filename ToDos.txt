@@ -3,5 +3,8 @@
 - Display
 - Regex
 - Refactor
+- Test on Windows
+
+- Backend Exception Handling?
 
 - See other To Dos in ui.py

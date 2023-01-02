@@ -3,6 +3,7 @@ if sys.platform == "win32" or sys.platform == "cygwin":
     import win32clipboard
     from io import BytesIO
 import index
+import os, json, re, enum
 from PyQt6.QtWidgets import QApplication, QLabel, QWidget, QHBoxLayout, QVBoxLayout, QLabel, QComboBox, QPushButton, QLineEdit, QLabel, QCheckBox, QGridLayout
 from PyQt6.QtGui import QPixmap
 from PyQt6.QtCore import Qt
