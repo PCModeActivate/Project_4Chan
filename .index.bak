@@ -1,0 +1,95 @@
+{
+ "tags": {
+  "No Tags": [],
+  "touhou": [
+   "Reimu_Coffee_emote.png",
+   "Reimu_Thonk.png",
+   "Re-Reimu_Thonk_Emote.png",
+   "Reimu_Peek.png",
+   "Reimu_Coffee.png",
+   "Reimu_Thonk_Emote.png",
+   "Reimu_Coffee.jpg"
+  ],
+  "Reimu": [
+   "Reimu_Coffee_emote.png",
+   "Reimu_Thonk.png",
+   "Re-Reimu_Thonk_Emote.png",
+   "Reimu_Peek.png",
+   "Reimu_Coffee.png",
+   "Reimu_Thonk_Emote.png",
+   "Reimu_Coffee.jpg",
+   "Re-reimu_annoyed.jpg",
+   "reimu_sad.png",
+   "reimu_annoyed.png",
+   "reimu_annoyed.jpg",
+   "reimu_yawn.jpg",
+   "reimu_yawn.png",
+   "reimu_fml.png"
+  ]
+ },
+ "images": {
+  "Reimu_Coffee_emote.png": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "Re-reimu_annoyed.jpg": [
+   1,
+   "Reimu"
+  ],
+  "Reimu_Thonk.png": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "reimu_sad.png": [
+   1,
+   "Reimu"
+  ],
+  "Re-Reimu_Thonk_Emote.png": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "Reimu_Peek.png": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "Reimu_Coffee.png": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "Reimu_Thonk_Emote.png": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "reimu_annoyed.png": [
+   1,
+   "Reimu"
+  ],
+  "reimu_annoyed.jpg": [
+   1,
+   "Reimu"
+  ],
+  "reimu_yawn.jpg": [
+   1,
+   "Reimu"
+  ],
+  "reimu_yawn.png": [
+   1,
+   "Reimu"
+  ],
+  "Reimu_Coffee.jpg": [
+   2,
+   "touhou",
+   "Reimu"
+  ],
+  "reimu_fml.png": [
+   1,
+   "Reimu"
+  ]
+ }
+}

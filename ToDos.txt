@@ -1,0 +1,7 @@
+- Tag Categories
+- Dynamic Thumbnail Size
+- Display
+- Regex
+- Refactor
+
+- See other To Dos in ui.py

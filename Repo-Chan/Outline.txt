@@ -1,4 +1,0 @@
-- Generate Index.txt for photo entries <Scopes: Name, Tag, Date>
-- Input Script
-- GUI output
-- copy to clipboard
